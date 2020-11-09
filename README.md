@@ -1,2 +1,2 @@
 # FlaskBlog
-Following flask tutorial from Corey Schafer
+my flask blog project
