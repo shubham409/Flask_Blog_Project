@@ -1,2 +1,2 @@
 # FlaskBlog
-my flask blog project
+My flask blog project
